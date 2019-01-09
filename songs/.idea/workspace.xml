@@ -2,43 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8c9f919-6390-4eea-b804-a4dfa1d27daa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SongDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SongList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/videos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pics/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../pics/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pics/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pics/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pics/public/index.html" afterDir="false" />
     </list>
@@ -77,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/SongDetail.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
@@ -107,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="506">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -155,9 +118,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1988" />
+    <option name="y" value="457" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
@@ -242,15 +205,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546121157922</updated>
-      <workItem from="1546121159120" duration="6611000" />
+      <workItem from="1546121159120" duration="7143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6611000" />
+    <option name="totallyTimeSpent" value="7143000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="1988" y="457" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
@@ -291,13 +254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/actions/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -325,6 +281,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SongDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SongList.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -335,13 +301,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SongDetail.js">
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="506">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
